@@ -3,6 +3,7 @@
 ## 😄 About Me:
 - I am currently earning my MLIS degree at Drexel University
 - I teach at two PreK-8 schools
+- In a former life, I worked as a film/video editor
 - In my free time, I'm writing a horror novel!
 - Pronouns: She/Her/Hers
 
