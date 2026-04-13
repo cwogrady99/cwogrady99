@@ -12,8 +12,8 @@
 - Digital Curation
 
 ## 🤔 I’m Curious in Exploring:
-- [Digital Preservation](https://github.com/topics/digital-preservation)
-- [Data Curation](https://github.com/topics/data-curation)
+- [Film Editing](https://github.com/topics/film-editing)
+- [Screenwriting Software](https://github.com/topics/screenwriting-software)
 
 ## ⚡ Fun Fact:
 - I once ate the world's best hotdog in Reykjavík, Iceland!
